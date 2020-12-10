@@ -32,7 +32,5 @@
     "parcel": "^1.12.4",
     "stylelint": "^13.6.1"
   },
-  "husky": {
-
-  }
+  "husky": {}
 }
